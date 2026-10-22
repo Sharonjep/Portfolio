@@ -1,4 +1,4 @@
-# Sharon Jepngetich — Software Engineer Portfolio
+# Sharon Jepngetich  Software Engineer Portfolio
 
 A premium, black-themed personal developer portfolio built for **Sharon Jepngetich**, a Computer Science graduate and Software Engineer based in Kenya.
 
@@ -67,9 +67,9 @@ Porfolio/
 
 ##  Featured Engineering Projects
 
-1. **Clinic Management & Patient Queue API** — Java 21 LTS, Spring Boot 3.3.5, PostgreSQL 16, Spring Security 6 JWT, Docker.
-2. **Sergoit View Gardens** — Live resort platform (`sergoitviewgardens.com`) & AWS serverless feedback architecture (Lambda, API Gateway, DynamoDB, SQS, SES, SNS).
-3. **AgroTrack Smart Soil Telemetry** — AWS CDK Python, Lambda, DynamoDB, Isolation Forest anomaly detection, SNS.
-4. **FastAPI & RabbitMQ Microservice** — Asynchronous order queue processing, Docker, Kubernetes manifests, Jenkinsfile CI/CD.
-5. **LunaLogic Tech Platform** — Production client engineering platform (`lunalogictech.com`), responsive web systems, managed DNS & cloud hosting.
+1. **Clinic Management & Patient Queue API**  Java 17 LTS, Spring Boot 3.3.5, PostgreSQL 16, Spring Security 6 JWT, Docker.
+2. **Sergoit View Gardens**  Live resort platform (`sergoitviewgardens.com`) & AWS serverless feedback architecture (Lambda, API Gateway, DynamoDB, SQS, SES, SNS).
+3. **AgroTrack Smart Soil Telemetry**  AWS CDK Python, Lambda, DynamoDB, Isolation Forest anomaly detection, SNS.
+4. **FastAPI & RabbitMQ Microservice**  Asynchronous order queue processing, Docker, Kubernetes manifests, Jenkinsfile CI/CD.
+5. **LunaLogic Tech Platform** Production client engineering platform (`lunalogictech.com`), responsive web systems, managed DNS & cloud hosting.
 6. **MediLite AI Symptom Checker** — Amazon Comprehend NLP clinical entity extraction, AWS Lambda, React.
